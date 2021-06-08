@@ -6,5 +6,5 @@ def sum(a):
         s = s + x
     return s
 
-print(sum(a))
+print("Sum of n Natural Number is ",sum(a))
 
